@@ -1,6 +1,6 @@
 //Include all the screenshot parameters in this configuration file
 module.exports = { 
-     urllist: ["https://www.lambdatest.com/list-of-browsers", "https://www.lambdatest.com/"],
+     urllist: ["https://www.lambdatest.com/list-of-browsers", "https://www.lambdatest.com/", "https://www.yahoo.com"],
      BrowserConfigurations: {
         "windows 10": {
           "chrome": [
